@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Thời khóa biểu A10</title>
+<style>
+body {
+    font-family: Arial;
+    text-align: center;
+}
+h1, p {
+    text-align: center;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 25px;
+}
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
+}
+</style>
+</head>
+<body>
+<h1>THỜI KHÓA BIỂU</h1>
+<h2>Lớp A10</h2>
+<p>Trường THPT Trần Phú</p>
+<p>Năm học 2026 - 2027</p>
+<p>Học kỳ 1</p>
+<p>GVCN: Phạm Thị Thanh Nga</p>
+<h2 style="text-align:left">Buổi sáng</h2>
+<table>
+<tr>
+<th>Tiết</th><th>Thứ 2</th><th>Thứ 3</th>
+<th>Thứ 4</th><th>Thứ 5</th><th>Thứ 6</th><th>Thứ 7</th>
+</tr>
+<tr>
+<td>1</td><td>CC-GĐTT</td><td>GDTC</td>
+<td>GDĐP</td><td>Anh</td><td>Tin</td><td></td>
+</tr>
+<tr>
+<td>2</td><td>HĐTN</td><td>GDTC</td>
+<td>Toán</td><td>Anh</td><td>Tin</td><td></td>
+</tr>
+<tr>
+<td>3</td><td>Hóa</td><td>CĐ Hóa</td>
+<td>Toán</td><td>Địa</td><td>TN-HN</td><td></td>
+</tr>
+<tr>
+<td>4</td><td>Hóa</td><td>CĐ Lý</td>
+<td>Anh</td><td>Địa</td><td>TN-HN</td><td></td>
+</tr>
+<tr>
+<td>5</td><td></td><td></td><td></td>
+<td></td><td></td><td></td>
+</tr>
+</table>
+<h2 style="text-align:left">Buổi chiều</h2>
+<table>
+<tr>
+<th>Tiết</th><th>Thứ 2</th><th>Thứ 3</th>
+<th>Thứ 4</th><th>Thứ 5</th><th>Thứ 6</th><th>Thứ 7</th>
+</tr>
+<tr>
+<td>1</td><td>Văn</td><td>Sử</td>
+<td>Văn</td><td>Lý</td><td>CĐ Toán</td><td></td>
+</tr>
+<tr>
+<td>2</td><td>Văn</td><td>Sử</td>
+<td>Văn B2</td><td>Lý</td><td>Toán B2</td><td></td>
+</tr>
+<tr>
+<td>3</td><td></td><td>Toán</td>
+<td>AnhNNG</td><td></td><td>AnhNNG</td><td></td>
+</tr>
+<tr>
+<td>4</td><td></td><td>GDQP&amp;AN</td>
+<td></td><td></td><td></td><td></td>
+</tr>
+<tr>
+<td>5</td><td></td><td></td><td></td>
+<td></td><td></td><td></td>
+</tr>
+</table>
+</body>
+</html>
